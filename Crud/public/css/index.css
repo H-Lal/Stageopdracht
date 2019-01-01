@@ -1,0 +1,14 @@
+
+.table th  {
+    text-align: center;
+}
+.div .h2 {
+    text-align: center;
+}
+.table {
+    border-radius: 5px;
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+}
+

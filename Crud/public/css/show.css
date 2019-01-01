@@ -1,0 +1,14 @@
+
+.form-group {
+    margin-left: 400px;
+    text-align: center;
+}
+.table th  {
+    text-align: center;
+}
+.table {
+    border-radius: 5px;
+    width: 50%;
+    float: none;
+    margin-left: 610px;
+}
